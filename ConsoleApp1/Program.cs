@@ -7,6 +7,7 @@ namespace ConsoleApp1
         static void Main()
         {
             double x = double.Parse(Console.ReadLine());
+            double y = double.Parse(Console.ReadLine());
         }
     }
 }
